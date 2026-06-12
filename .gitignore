@@ -1,0 +1,13 @@
+target/
+*.rs.bk
+*.pdb
+data/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+config.json
+sitemap*.xml
+output/
+.DS_Store
+Thumbs.db
